@@ -1,0 +1,32 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.autofetch": true,
+    "cmake.configureOnOpen": true,
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "cls; python -u"
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python",
+    "editor.accessibilityPageSize": 12,
+    "workbench.colorTheme": "Dark-Dracula",
+    "editor.rulers": [79],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "foreground": "#3bcc3b"
+                }
+            },
+            {
+                "scope": "string.quoted.docstring",
+                "settings": {
+                    "foreground": "#FFA500"
+                }
+            }
+        ]
+    }
+}
